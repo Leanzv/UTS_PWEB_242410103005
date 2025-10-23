@@ -1,0 +1,93 @@
+/.env
+/vendor/
+/node_modules/
+/public/hot
+/storage/*.key
+/storage/debugbar
+/storage/framework/cache/data
+/storage/logs
+/storage/*.log
+/storage/app/public
+/bootstrap/cache/*.php
+.idea/
+.vscode/
+.phpunit.result.cache
+/homestead.yaml
+/Homestead.json
+/composer.lock
+/npm-debug.log
+/yarn-error.log
+.env.local
+.env.*.backup
+# OS files
+Thumbs.db
+.DS_Store
+
+# Build files
+/public/build/
+/build/
+
+# Ignore node build artifacts
+/.parcel-cache
+
+# Ignore local sqlite db if created by env
+/database/database.sqlite
+
+# Ignore user secrets
+.env
+/.env
+/vendor/
+/node_modules/
+/public/hot
+/storage/*.key
+/storage/debugbar
+/storage/framework/cache/data
+/storage/logs
+/storage/*.log
+/storage/app/public
+/bootstrap/cache/*.php
+.idea/
+.vscode/
+.phpunit.result.cache
+/homestead.yaml
+/Homestead.json
+/composer.lock
+/npm-debug.log
+/yarn-error.log
+.env.local
+.env.*.backup
+# OS files
+Thumbs.db
+.DS_Store
+
+# Build files
+/public/build/
+/build/
+
+# Ignore node build artifacts
+/.parcel-cache
+
+# Ignore local sqlite db if created by env
+/database/database.sqlite
+
+# Ignore user secrets
+.env
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
